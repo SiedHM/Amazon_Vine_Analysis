@@ -9,8 +9,20 @@ In this project, I used PySpark to perform the ETL process to extract the datase
 # Results
 ## Extracted data frame
 
-## Data loaded to PgAdmin
+![Table-1](https://github.com/SiedHM/Amazon_Vine_Analysis/blob/main/images/extracted_data.png)
 
+## Data loaded to PgAdmin
+### Review-ID Table
+![table-2](https://github.com/SiedHM/Amazon_Vine_Analysis/blob/main/images/review_id%20table.png)
+
+### Products table
+![Table-3](https://github.com/SiedHM/Amazon_Vine_Analysis/blob/main/images/product%20table.png)
+
+### Customers table
+![Table-4](https://github.com/SiedHM/Amazon_Vine_Analysis/blob/main/images/customer%20table.png)
+
+### Vine_table
+![](https://github.com/SiedHM/Amazon_Vine_Analysis/blob/main/images/vine%20table.png)
 ## Paid Vine program and Unpaid program
 
 # Paid reviews
